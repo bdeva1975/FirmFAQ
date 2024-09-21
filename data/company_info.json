@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "document": "John Smith is the CEO of TechCorp. He became CEO in 2020.",
+      "metadata": {"type": "leadership"}
+    },
+    {
+      "id": 2,
+      "document": "Jane Doe founded TechCorp in 2010 and served as CEO until 2020.",
+      "metadata": {"type": "history"}
+    },
+    {
+      "id": 3,
+      "document": "TechCorp started as a small software development company in 2010 and has since expanded into various tech sectors including AI and cloud computing.",
+      "metadata": {"type": "history"}
+    },
+    {
+      "id": 4,
+      "document": "TechCloud, launched in 2015, is TechCorp's flagship cloud computing platform.",
+      "metadata": {"type": "products"}
+    },
+    {
+      "id": 5,
+      "document": "TechCorp's headquarters is located in San Francisco, California.",
+      "metadata": {"type": "location"}
+    }
+  ]
